@@ -97,7 +97,7 @@
 
 В данной работе будет использоваться СУБД `PostgreSQL`. Физическая модель сконструирована, исходя из функционала выбранной СУБД. 
 
-![physic](https://gitlab.atp-fivt.org/db2024s/dorogovaso-project/-/raw/main/pictures/physical_scheme.png)
+![https://gitlab.atp-fivt.org/db2024s/dorogovaso-project/-/raw/main/pictures/physical_scheme.png](https://github.com/sofiadorogova/db_project/blob/dev/physical_scheme.png)
 
 
 ## _Создание и заполнение_ 

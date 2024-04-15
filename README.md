@@ -83,7 +83,8 @@
 ## _Проектирование_ 
 ### Концептуальная модель
 
-![concept](https://gitlab.atp-fivt.org/db2024s/dorogovaso-project/-/raw/main/pictures/concept_scheme.png?ref=main)
+![https://gitlab.atp-fivt.org/db2024s/dorogovaso-project/-/raw/main/pictures/concept_scheme.png?ref=main](https://github.com/sofiadorogova/db_project/raw/dev/logical_scheme.png
+)
 
 
 ### Логическая модель

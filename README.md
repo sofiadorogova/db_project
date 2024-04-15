@@ -104,7 +104,7 @@
 
 Для создания базы данных используют `DDL` запросы (Data Definition Language). С помощью `create` запросов мы прописываем отношения и их связи в базе данных. [Здесь приведена реализация `create` запросов согласно построенной модели](https://github.com/sofiadorogova/db_project/blob/dev/create.sql)).
 
-Заполнение производится засчет `insert` запросов (Data Manipulation Language), которые прописаны для данной базы данных [здесь](https://gitlab.atp-fivt.org/db2024s/dorogovaso-project/-/raw/main/scripts/insertions.sql?ref_type=heads).
+Заполнение производится засчет `insert` запросов (Data Manipulation Language), которые прописаны для данной базы данных [здесь](https://github.com/sofiadorogova/db_project/blob/dev/insertions.sql).
 
 ## _Select запросы_
 

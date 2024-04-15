@@ -83,17 +83,15 @@
 ## _Проектирование_ 
 ### Концептуальная модель
 
-![https://gitlab.atp-fivt.org/db2024s/dorogovaso-project/-/raw/main/pictures/concept_scheme.png?ref=main](https://github.com/sofiadorogova/db_project/raw/dev/logical_scheme.png
-)
+![https://gitlab.atp-fivt.org/db2024s/dorogovaso-project/-/raw/main/pictures/logical_scheme.png](https://github.com/sofiadorogova/db_project/blob/dev/concept_scheme.png)
 
 
 ### Логическая модель
 
 Обозначения(цвет таблиц): фиолетовый - основные сущности, голубой - вспомогательные таблицы (нормализация базы данных), розовый - таблица для поддержания SCD4 версионирования.
 
-![logic](https://gitlab.atp-fivt.org/db2024s/dorogovaso-project/-/raw/main/pictures/logical_scheme.png)
-
-
+![https://gitlab.atp-fivt.org/db2024s/dorogovaso-project/-/raw/main/pictures/concept_scheme.png?ref=main](https://github.com/sofiadorogova/db_project/raw/dev/logical_scheme.png
+)
 
 ### Физическая модель
 
